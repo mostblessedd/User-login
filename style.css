@@ -1,0 +1,19 @@
+html {
+    background-color: rgba(0, 255, 255, 0.883); 
+}
+ div {
+    background-color: white;
+    width: 400px;
+    border-radius: 15px;
+    padding: 40px;
+    margin: auto;
+    text-align: left;
+ }
+
+ button {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    width: 150px;
+    background-color: aqua;
+    
+ }
